@@ -61,7 +61,7 @@ python main.py --use-env --init
 
 For detailed usage instructions, configuration options, and Splunk setup guidance, see:
 
-📖 **[ArmorCode CLI Audit Tool Documentation](ArmorCode_CLI_Audit_Tool.md)**
+📖 **[ArmorCode CLI Audit Tool Documentation](ArmorCode%20CLI%20Audit%20Tool.md)**
 
 ---
 
